@@ -698,6 +698,13 @@ zetaglobal.net,998,RESELLER
 zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zoomd.com,88478941,RESELLER
+acexchange.co.kr,1317287336,RESELLER
+azberry.com,321006,RESELLER
+bid-matrix.com,7a33a9718c7ee898,RESELLER
+bidease.com,bidease_seller_31,RESELLER
+copper6.com,764118,RESELLER
+improvedigital.com,2525,RESELLER
+tubia.com,40104,RESELLER
 
 ironsrc.com, 217813, Direct
 ironsrc.com, 217813, DIRECT
